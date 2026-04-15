@@ -73,7 +73,7 @@ a {
 }
 
 .hero {
-  background-image: url("images/construction-main.jpg");
+  background-image:  url("images/construction-main.jpg");
   background-size: cover;
   background-position: center;
   height:750px;
@@ -112,7 +112,7 @@ a {
 
 .hero-description {
   font-size: 18px;
-  color: #555;
+  color: #f9f7f7;
   margin-bottom: 24px;
 }
 
